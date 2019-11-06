@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/hien_thi_gia_tri_phan_tu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/hien_thi_ngay/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/java_try_catch_3_canh_tam_gian/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/khai_bao_bien/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/kiem_Tra_so_nguyen_to/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/kiem_tra_nam_nhuan/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/ptb1/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tao_menu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/test/src/com/company" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tim_gia_tri_lon_nhat_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tim_gia_tri_lon_nhat_trong_mang_2_chieu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tim_gia_tri_nho_nhat_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tim_gia_tri_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tim_so_ngay_trong_thang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SS1/tinh_dien_tich_chu_nhat/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/hien_thi_gia_tri_phan_tu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/hien_thi_ngay/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/java_try_catch_3_canh_tam_gian/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/khai_bao_bien/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/kiem_Tra_so_nguyen_to/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/kiem_tra_nam_nhuan/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/ptb1/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tao_menu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/test/src/com/company" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tim_gia_tri_lon_nhat_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tim_gia_tri_lon_nhat_trong_mang_2_chieu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tim_gia_tri_nho_nhat_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tim_gia_tri_trong_mang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tim_so_ngay_trong_thang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WEEK1/tinh_dien_tich_chu_nhat/src" vcs="Git" />
+  </component>
+</project>

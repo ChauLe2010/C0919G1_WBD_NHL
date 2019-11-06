@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hien_thi_ngay/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/khai_bao_bien/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kiem_Tra_so_nguyen_to/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kiem_tra_nam_nhuan/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ptb1/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tao_menu/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/src/com/company" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tim_so_ngay_trong_thang/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tinh_dien_tich_chu_nhat/src" vcs="Git" />
+  </component>
+</project>
